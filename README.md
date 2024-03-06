@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yehan
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Science Engineering
+- 👀 I’m interested in Data
+- 🌱 I’m learning Data Science Engineering
 
 <!---
 yehanb/yehanb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
